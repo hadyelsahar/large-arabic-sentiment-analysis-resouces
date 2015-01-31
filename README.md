@@ -1,4 +1,4 @@
-# large-arabic-sentiment-analysis-resouces
+# Sentiment Analysis Resouces For Arabic Language
 
 ## Overview :
 
@@ -18,5 +18,5 @@ The Repository includes the following :
 
 ## Dataset Statistics
 
-## Requirements 
+## Requirements
 
