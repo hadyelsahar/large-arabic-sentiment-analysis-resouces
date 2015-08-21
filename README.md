@@ -1,12 +1,12 @@
 # Sentiment Analysis Resouces For Arabic Language
--------------------------------------------------
+
 ## Overview :
----------------
+
 The Repository includes the following :
   - 33K Automatically annotated Reviews in Domains of Movies, Hotels, Restaurants and Products
   - Domain specific lexicons, semi automatically generated from the datasets above (2K total)
   - A total of 615 Experiments over each of the datasets experimenting :
-    - Classifiers : Linear SVM, Logistic Regression, SGD,  KNN, BNB
+    - Classifiers : Linear SVM, Logistic Regression,  KNN, BNB, SGD training with SVM (Hinge loss and L1 penality) 
     - Sandard Features : TFIDF, Term Count, Term Existence, Delta-TFIDF
     - Lexicon Based Features: domain specific and domain general 
     - Combining features : Lexicon based feature vectors + Standard features 
@@ -15,11 +15,10 @@ The Repository includes the following :
   - Results of Each of the Experiments
 
 ## Running Experiments
-----------------------
-33K Automatically annotated Reviews
+
+33K total unique reviews in 5 different Domains. 
 
 ## Dataset Statistics
-----------------------
 
 ### Datasets :
 
@@ -50,6 +49,14 @@ The Repository includes the following :
 ####RES.csv
 - RES1.csv and RES2.csv combined
 - 10970 reviews
+
+
+## Lexicons
+Domain specific lexicons, semi automatically generated from the datasets above (2K total)
+
+|lexicon  | MOV| RES | PROD | HTL | BOOK | Total|
+|---------|----|-----|------|-----|------|------| 
+| size    | 87 | 734 |  369 |218  |874   | 1913 |
 
 
 ## Requirements
