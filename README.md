@@ -14,9 +14,6 @@ The Repository includes the following :
     - Balanced or unBalanced Datasets
   - Results of Each of the Experiments
 
-## Running Experiments
-
-33K total unique reviews in 5 different Domains. 
 
 ## Dataset Statistics
 
