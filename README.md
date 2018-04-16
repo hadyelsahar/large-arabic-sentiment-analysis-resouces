@@ -60,5 +60,3 @@ Domain specific lexicons, semi automatically generated from the datasets above (
 | size    | 87 | 734 |  369 |218  |874   | 1913 |
 
 
-## Requirements
-
