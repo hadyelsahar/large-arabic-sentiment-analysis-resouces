@@ -1,4 +1,8 @@
-# Sentiment Analysis Resouces For Arabic Language
+# Large Multi-Domain Resources for Arabic Sentiment Analysis
+
+## 3rd Best Paper winner at the International Conference on Computational Linguistics and Intelligent Text Processing [CICLing2015](https://www.cicling.org/)
+[Download the paper from here ](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/Paper%20-%20Building%20Large%20Arabic%20Multi-domain%20Resources%20for%20Sentiment%20Analysis.pdf)
+
 
 ## Overview :
 
